@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.4
+matplotlib==3.10.5
+numpy==2.3.2
+openai==1.98.0
+Requests==2.32.4
